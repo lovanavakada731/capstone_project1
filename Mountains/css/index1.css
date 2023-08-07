@@ -160,14 +160,14 @@ bg-con{
 }
 .c4-div1{
     background-color: #d4ceb0;
-    height: 700px;
+    height: 900px;
     width: 350px;
     float: left;
     position: relative;
 }
 .c4-div2{
     background-color: #a5bec2;
-    height: 700px;
+    height: 900px;
     width: 500px;
     float: left;
     padding-top: 150px;
@@ -175,7 +175,7 @@ bg-con{
 }
 .c4-div3{
     background-color: #d4ceb0;
-    height: 700px;
+    height: 900px;
     width: 350px;
     float: left;
     position: relative;
@@ -201,7 +201,7 @@ bg-con{
 }
 .c4-m3{
     position: absolute;
-    right: 300px;
+    right: 200px;
     top: 150px;
 }
 .card-5{
