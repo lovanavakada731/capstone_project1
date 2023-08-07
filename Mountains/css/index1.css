@@ -333,7 +333,7 @@ bg-con{
 
 #texta{
     height:200px;
-    width: 570px;
+    width: 500px;
 }
 .c7-p{
     color: azure;
@@ -352,8 +352,8 @@ bg-con{
     top:120px;
 }
 .card-7{
-    height: 100px;
-    width:80vw;
+    height: 200px;
+    width:100vw;
     position: relative;
     align-content: center;
     background-color: black;
