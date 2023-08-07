@@ -8,7 +8,7 @@ bg-con{
     padding-right:20px;
     padding-top:10px;
     padding-bottom: 10px;
-    width:100%;
+    width:100vw;
 }
 
 .home-head{
@@ -98,8 +98,8 @@ bg-con{
 
 .card-3{
     position: relative;
-    height: 85vh;
-	width: 60vw;
+    height: 100vh;
+	width: 100vw;
     padding-top: 20px;
 	padding-left: 140px;
     padding-bottom: 20px;
@@ -155,7 +155,7 @@ bg-con{
     float: left;
 }
 .card-4{
-    height: 92vh;
+    height: 100vh;
     width: 100vw;
 }
 .c4-div1{
@@ -206,7 +206,7 @@ bg-con{
     top: 150px;
 }
 .card-5{
-    height: 80vh;
+    height: 100vh;
     width: 100vw;
 }
 .c5-div1{
